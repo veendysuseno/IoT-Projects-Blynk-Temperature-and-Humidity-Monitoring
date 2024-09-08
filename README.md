@@ -31,7 +31,7 @@
   Image of Temperature Gauge Settings<br/>
 
 - Setting pin V5 for humidity setting gauge.<br/>
-  ![3](img/3.gauge-settings-2.jpg)
+  ![3](img/3.gauge-settings-2.jpg)<br/>
   Humidity Gauge Setting Image<br/>
 
 3. Make sure your NodeMCU is connected to the Wi-Fi network for real-time data transmission.<br/>
